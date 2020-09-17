@@ -1,0 +1,6 @@
+framework module Pods_Contact_app_withRealmTests {
+  umbrella header "Pods-Contact_app_withRealmTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

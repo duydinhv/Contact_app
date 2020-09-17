@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Contact_app_withRealm_Contact_app_withRealmUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Contact_app_withRealm_Contact_app_withRealmUITests
+@end
